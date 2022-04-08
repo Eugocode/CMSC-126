@@ -1,5 +1,7 @@
 # CMSC-126: Web Development
 
-This is my project as a requirement for our course in CMSC 126: Web development. This is a farm website having a banner, about us, blog, products, and contact sections. The goal of this is to implement front end and back end development. It is limited to at least one webpage, and one read and write to the database (XAMPP was used as a database and local server throughout this project). 
+This project is a requirement for our course in CMSC 126: Web development. 
 
-Throughout the development, scrum methodology was implemented. There were a total of three Sprints in this development. There are few commits made since this project was uploaded after the development. 
+Eugo Farm website has a banner, about us, blog, product, and contact sections. This project aims to implement front-end (HTML, CSS, JavaScript) and back-end (PHP, MySQL) development while enforcing the Scrum methodology. It is limited to at least one webpage and one read and write to the database (XAMPP was used as a database and local server).
+
+P.S. Few commits were made since this project was uploaded right after the development. 
